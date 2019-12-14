@@ -1,0 +1,13 @@
+*.jar
+out/
+.idea/
+web/target/
+*.class
+*.project
+.settings/
+*.classpath
+*.iml
+target/
+service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+*.log
