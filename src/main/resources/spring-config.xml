@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+
+    <bean id="student" class="com.orichalcoss.model.Student">
+        <property name="id" value="1"/>
+        <property name="name" value="sy"/>
+        <property name="age" value="25"/>
+    </bean>
+
+    <bean id="computer" class="com.orichalcoss.model.Computer">
+        <property name="id" value="1"/>
+        <property name="name" value="dell"/>
+        <property name="price" value="2500"/>
+    </bean>
+
+</beans>
